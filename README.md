@@ -7,7 +7,7 @@ Flashcard-Generator is an application built for node.js that allows users to cre
 ## How to use Flashcard-Generator
 
 1. Clone repository to your local machine.
-2. Install required dependencie using `npm install`.
+2. Install required dependency using `npm install`.
 3. Launch application in terminal using `node CLI.js`.
 4. Follow prompts and enter the appropriate questions.
 5. STUDY, STUDY, STUDY!
